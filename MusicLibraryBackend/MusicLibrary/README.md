@@ -5,4 +5,6 @@ Add migration
 Update database 
 -   in windows(Visual Studio) (NuGet Package Console) `Update-Database`
 
-# Setup your server name and database name in appsettings.json
+
+
+# Setup your Server Name and Database Name in the appsettings.json file
