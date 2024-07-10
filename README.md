@@ -10,7 +10,7 @@
 ### Database Management
 -  MS SQL SERVER
 <br>
-## Getting Started
+### Getting Started
 - After migration and update of the database, run the backend project
 - Run the frontend project
 - Begin using the Music Library project!
