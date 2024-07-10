@@ -7,4 +7,5 @@ Update database
 
 
 
-# Setup your Server Name and Database Name in the appsettings.json file
+
+Setup your Server Name and Database Name in the `appsettings.json` file
