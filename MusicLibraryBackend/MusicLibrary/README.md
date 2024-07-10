@@ -1,8 +1,6 @@
 # Entity Framework Backend
 # Setup
 - Change the Server Name and Database Name in the `appsettings.json` file
-<br>
-
 ## Add migration 
 -   in windows(Visual Studio) (NuGet Package Console) `Add-Migration <migrationName>`
 
