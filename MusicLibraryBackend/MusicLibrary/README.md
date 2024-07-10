@@ -1,8 +1,8 @@
 # Entity Framework Backend
-Add migration 
+## Add migration 
 -   in windows(Visual Studio) (NuGet Package Console) `Add-Migration <migrationName>`
 
-Update database 
+## Update database 
 -   in windows(Visual Studio) (NuGet Package Console) `Update-Database`
 <br>
 
