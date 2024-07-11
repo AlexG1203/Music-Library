@@ -14,3 +14,7 @@
 - Run the frontend project
 - Begin using the Music Library project!
 # Demo
+
+
+https://github.com/AlexG1203/Music-Library/assets/126619451/9cc2a49e-d509-4992-81c0-ed77e106af13
+
