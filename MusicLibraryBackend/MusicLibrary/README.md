@@ -1,5 +1,5 @@
 # Entity Framework Backend
-#Packages used
+# Packages used
 - `Microsoft.EntityFrameworkCore`
 - `Microsoft.EntityFrameworkCore.SqlServer`
 - `Microsoft.EntityFrameworkCore.Tools`
