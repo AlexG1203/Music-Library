@@ -6,6 +6,7 @@
 - `Microsoft.EntityFrameworkCore.Tools`
 - `Newtonsoft.Json`
 <br>
+
 - Change the Server Name and Database Name in the `appsettings.json` file
 ## Add migration 
 -   in windows(Visual Studio) (Package Manager Console) `Add-Migration <migrationName>`
